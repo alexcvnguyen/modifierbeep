@@ -2,7 +2,6 @@
 
 a super simple macos app that beeps when you press any modifier key (shift, command, option, or control).
 
-
 ## what it does
 
 - sits in your menu bar with a little speaker icon
